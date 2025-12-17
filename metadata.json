@@ -1,0 +1,5 @@
+{
+  "name": "Student Task Manager",
+  "description": "A comprehensive task management application for students featuring CRUD operations, filtering, sorting, and AI-powered task creation.",
+  "requestFramePermissions": []
+}
